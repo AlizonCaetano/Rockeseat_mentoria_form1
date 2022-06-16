@@ -1,6 +1,6 @@
-# Formulário mentoria projeto/desafio Explorer - Rocketseat
+# Formulário básico mentoria 
 
-Um simples formulário apenas para desktop<br /><br/>
+Neste projeto realizei a criação de um formulário de registro de mentoria, projeto idealizado pela Rockeseat no qual eu realizei uma versão própria<br /><br/>
 
 ### Final Result
 
