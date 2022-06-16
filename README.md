@@ -2,7 +2,7 @@
 
 Neste projeto realizei a criação de um formulário de registro de mentoria, projeto idealizado pela Rockeseat no qual eu realizei uma versão própria.<br /><br/>
 
-### Final Result
+### Resultado final
 
 <img src="v0.4/assets/final.png" alt="Web Version"/>
 
