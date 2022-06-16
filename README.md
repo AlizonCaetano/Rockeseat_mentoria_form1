@@ -4,7 +4,7 @@ Um simples formulário apenas para desktop<br /><br/>
 
 ### Final Result
 
-<img src="assets/final.png" alt="Web Version"/>
+<img src="./assets/final.png" alt="Web Version"/>
 
 ## 🚀 Iniciando o projeto
 
