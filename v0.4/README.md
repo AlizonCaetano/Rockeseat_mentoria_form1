@@ -4,7 +4,7 @@ Neste projeto realizei a criação de um formulário de registro de mentoria, pr
 
 ### Final Result
 
-<img src="v0.4/assets/final.png" alt="Web Version"/>
+<img src="assets/final.png" alt="Web Version"/>
 
 ## 🚀 Iniciando o projeto
 
